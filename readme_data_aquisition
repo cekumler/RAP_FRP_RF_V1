@@ -1,0 +1,13 @@
+IMPORTANT INFORMATION IN OBTAINING PROCESSED DATA AND PRE-TRAINED RANDOM FOREST MODELS
+
+To obtain, currently contacT: christina.e.kumler@noaa.gov
+
+- Pre-trained random forest models are providedin a compressed zip file
+- Processed csv files containing hourly FRP from either the polar, GOES,
+or combined with the RAP weather outputs
+- Processed npy files
+
+The demo scripts will reference one or multiple of those files to be run sucessfully.
+
+Additionally, the raw data unprocessed RAP and/or satellite files from polar or GOES
+can be provided for the processing scripts if necessary.
